@@ -1221,6 +1221,7 @@
   <catalogs>Catalog.ДО_КонтактныеЛица</catalogs>
   <catalogs>Catalog.ДО_Должности</catalogs>
   <catalogs>Catalog.ИТ_ДоставкаПрисоединенныеФайлы</catalogs>
+  <catalogs>Catalog.ИТ_Производители</catalogs>
   <documents>Document.ЗаказПокупателя</documents>
   <documents>Document.ОплатаОтПокупателя</documents>
   <documents>Document.ОплатаПоставщику</documents>
